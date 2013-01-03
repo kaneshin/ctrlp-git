@@ -6,8 +6,8 @@ let g:loaded_ctrlp_git_diff = 1
 let s:git_diff_var = {
   \ 'init':   'ctrlp#git_diff#init()',
   \ 'accept': 'ctrlp#git_diff#accept',
-  \ 'lname':  'git-log',
-  \ 'sname':  'git-log',
+  \ 'lname':  'git-diff',
+  \ 'sname':  'git-diff',
   \ 'type':   'line',
   \ 'enter':  'ctrlp#git_diff#enter()',
   \ 'exit':   'ctrlp#git_diff#exit()',
