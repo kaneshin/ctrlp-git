@@ -1,0 +1,12 @@
+CtrlP-Git
+=========
+
+This plugin is a extension of kien/ctrlp.vim
+
+- [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
+
+Author
+------
+
+Shintaro Kaneko <kaneshin0120@gmail.com>
+
